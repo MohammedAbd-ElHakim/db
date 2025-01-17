@@ -1,0 +1,16 @@
+{
+    "name": "moa19/session13",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Moa19\\Session13\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohammed",
+            "email": "moa199528@gmail.com"
+        }
+    ],
+    "require": {}
+}
