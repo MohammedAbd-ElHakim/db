@@ -1,4 +1,5 @@
 <?php
+namespace Moa19\Session13;
 interface dbContract
 {
     public function insert($data);
